@@ -2,3 +2,7 @@
 Welcome the world of text classification.
 
 Tools like SQL, R and Python.
+
+
+Selection of Algorithm.
+
