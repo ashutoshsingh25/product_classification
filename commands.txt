@@ -1,0 +1,3 @@
+Supervised input  for fastText...
+
+while read p; do fastText/fasttext.exe supervised -input /cygdrive/e/$p.txt -output /cygdrive/e/$p -lr 0.8 -minn 4 -lrUpdateRate 100 ;
