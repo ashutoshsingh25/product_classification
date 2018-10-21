@@ -6,3 +6,4 @@ Tools like SQL, R and Python.
 
 Selection of Algorithm.
 
+like CNN, keras, resnet, senet etc.
